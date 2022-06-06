@@ -2,13 +2,15 @@
 
 # Hi  👋, I'm Umesh Yadav
 
-### [](https://github.com/jatindevnani#a-java-backend-developer)A Full Stack Web Developer
+I am a Full Stack Web Developer
+
+I am currently pursuing Full Stack Web Development Course at Masai School. Currently diving deeper into MERN Learning.
 
 ![Coding](https://camo.githubusercontent.com/b031dd766cfe15f73313260e8ef489bd6437fa30c84765973bb2fa059175789d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31382f61342f39342f31386134393439666339633830363731373264336239366533303265373039372e676966)
 
--   🌱  I’m currently learning  **MERN Stack Web Development at MASAI School **
+-   🌱  **I’m currently learning**  **MERN Stack Web Development at MASAI School **
     
--   📝  I  write articles on  [https://medium.com/@umeshyadavrocks](https://medium.com/@umeshyadavrocks)
+-   📝  **I  write articles on**  [https://medium.com/@umeshyadavrocks](https://medium.com/@umeshyadavrocks)
     
 -   📫  How to reach me  **[umeshyadavrocks@gmail.com](mailto:umeshyadavrocks@gmail.com)**
     
