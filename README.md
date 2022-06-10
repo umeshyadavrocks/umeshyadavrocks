@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://umesh-react-portfolio.netlify.app/]([somelink.com](https://umesh-react-portfolio.netlify.app/))
+- 👨‍💻 All of my projects are available at [https://umesh-react-portfolio.netlify.app/](https://umesh-react-portfolio.netlify.app/#portfolio)
 
 - 📝 I regularly write articles on [https://medium.com/@umeshyadavrocks](https://medium.com/@umeshyadavrocks)
 
