@@ -9,15 +9,13 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [somelink.com](somelink.com)
+- 👨‍💻 All of my projects are available at [https://umesh-react-portfolio.netlify.app/]([somelink.com](https://umesh-react-portfolio.netlify.app/))
 
 - 📝 I regularly write articles on [https://medium.com/@umeshyadavrocks](https://medium.com/@umeshyadavrocks)
 
 - 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **umeshyadavrocks@gmail.com**
-
-- 📄 Know about my experiences [somelink.com](somelink.com)
 
 - ⚡ Fun fact **Listening Music.**
 
